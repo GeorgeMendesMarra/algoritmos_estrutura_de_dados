@@ -1,6 +1,0 @@
-*.exe
-*.o
-*.out
-output/
-.env
-.env.*
